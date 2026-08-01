@@ -33,8 +33,8 @@ export default function HeroSection() {
         >
           <span className="block text-white">Happy</span>
           <span className="text-gradient-purple block my-1">Friendship Day</span>
-          <span className="text-gradient-gold block font-serif italic text-4xl sm:text-6xl lg:text-7xl font-bold mt-2">
-            To My Favorite Human ❤️
+          <span className="text-gradient-gold block font-serif italic text-3xl sm:text-5xl lg:text-6xl font-bold mt-2">
+            Madhavi, Meena Kumari &amp; Meenakshi 🌸
           </span>
         </motion.h1>
 

@@ -9,10 +9,10 @@ export const TRIO_IMAGE_1 = "/Trio-1.jpeg";
 export const TRIO_IMAGE_2 = "/Trio2.jpeg";
 
 export const HERO_DATA = {
-  badge: "💖 Dedication to My Favorite People",
+  badge: "💖 Madhavi • Meena Kumari • Meenakshi",
   title: "Happy Friendship Day",
-  subtitle: "To My Forever Partner in Crime & Safe Place",
-  description: "An entire digital universe crafted to celebrate our unbreakable bond, our chaotic laughs, late-night talks, and every precious memory we have shared together.",
+  subtitle: "To My Trio Best Friends Forever 🌸",
+  description: "A special digital universe crafted just for Madhavi, Meena Kumari & Meenakshi — celebrating our unbreakable bond, chaotic laughs, unforgettable memories, and every beautiful moment we have shared together.",
   cta: "Open Your Surprise ✨"
 };
 
@@ -20,9 +20,9 @@ export const STORY_TIMELINE = [
   {
     id: 1,
     year: "Chapter I",
-    title: "The Beginning of Magic",
+    title: "The Beginning of Our Trio",
     date: "Where It All Started",
-    description: "We crossed paths, completely unaware that we were about to start the best chapter of our lives. From strangers to inseparable soulmates.",
+    description: "Madhavi, Meena Kumari & Meenakshi — three beautiful souls who found each other and unknowingly created the most special friendship story ever written.",
     tag: "First Encounter",
     icon: "Sparkles",
     color: "from-purple-500 to-pink-500"
@@ -30,39 +30,39 @@ export const STORY_TIMELINE = [
   {
     id: 2,
     year: "Chapter II",
-    title: "Late Night Heart-to-Hearts",
-    date: "Endless Conversations",
-    description: "3 AM calls, endless gossip, solving each other's overthinking, and building a vault of secrets that only we hold.",
-    tag: "Safe Space",
+    title: "Endless Laughs & Crazy Vibes",
+    date: "Our Own World",
+    description: "From Madhavi's contagious laughter to Meena Kumari's hilarious commentary to Meenakshi's sweet energy — every moment with this trio is pure magic.",
+    tag: "Trio Energy",
     icon: "Heart",
     color: "from-pink-500 to-rose-500"
   },
   {
     id: 3,
     year: "Chapter III",
-    title: "Unstoppable Adventures & Laughs",
+    title: "Food Court Adventures",
     date: "Memory Factory",
-    description: "Tasting delicious food, snapping random silly pictures, bursting out laughing in quiet places, and creating core memories wherever we go.",
-    tag: "Crazy Buddy",
+    description: "The iconic food court hangouts, spontaneous plans, silly selfies, and the kind of laughter that makes everyone around us stare — our speciality!",
+    tag: "Food & Fun",
     icon: "Camera",
     color: "from-blue-500 to-cyan-400"
   },
   {
     id: 4,
     year: "Chapter IV",
-    title: "Standing Strong Through Everything",
+    title: "Always There For Each Other",
     date: "Unconditional Support",
-    description: "Through high points and low points, you were always the person who listened without judgment and cheered me on with all your heart.",
-    tag: "Lifetime Anchor",
+    description: "Through every high and every difficult moment, Madhavi, Meena Kumari & Meenakshi have been each other's biggest support system and safest space.",
+    tag: "Lifetime Bond",
     icon: "ShieldCheck",
     color: "from-amber-400 to-yellow-500"
   },
   {
     id: 5,
     year: "Chapter V",
-    title: "Forever & Always",
+    title: "Forever Trio — Always & Always",
     date: "Present & Future",
-    description: "No matter how far life takes us or how busy the world gets, our friendship remains timeless, pure, and eternal.",
+    description: "Distance, time, or life's changes can never break what Madhavi, Meena Kumari & Meenakshi share. This friendship is timeless, pure, and absolutely eternal.",
     tag: "Forever Best Friends",
     icon: "Crown",
     color: "from-purple-600 to-indigo-600"
@@ -225,28 +225,30 @@ export const ACHIEVEMENTS = [
 ];
 
 export const SECRET_LETTER = {
-  date: "August 1st, Friendship Special Edition",
-  recipient: "To My Dearest Best Friend,",
+  date: "August 1st, 2026 — Friendship Day Special Edition",
+  recipient: "To My Dearest Madhavi, Meena Kumari & Meenakshi,",
   body: [
-    "I spent time creating this entire custom experience just for you, because standard messages could never express how much your friendship means to me.",
-    "Thank you for being my safe space, my favorite human to talk to, and the person who brings so much genuine warmth and laughter into my life.",
-    "From random hangouts to deep emotional talks, every single minute shared with you is something I treasure deeply.",
-    "Never forget how incredible, special, and loved you are. You deserve all the happiness in the universe."
+    "I built this entire digital experience with all my heart, just to show you three how much your friendship truly means to me. No ordinary message could ever be enough.",
+    "Madhavi — your warmth, kindness, and beautiful smile light up every room. You make everything feel safe and joyful.",
+    "Meena Kumari — your energy, humor, and big heart are absolutely infectious. You make every moment unforgettable.",
+    "Meenakshi — your sweetness, calm spirit, and genuine love for everyone around you is something truly rare and precious.",
+    "Together, the three of you are my favorite people in the world. Thank you for every laugh, every memory, and every beautiful moment.",
+    "Never forget how special, loved, and incredible each of you truly are. You all deserve all the happiness in the universe!"
   ],
-  signoff: "With all my love and warm hugs,",
+  signoff: "With all my love and warmest hugs,",
   sender: "Your Forever Best Friend ❤️"
 };
 
 export const FINAL_MESSAGE = {
   title: "Happy Friendship Day ❤️",
   lines: [
-    "Thank you for every laugh.",
-    "Thank you for every memory.",
-    "Thank you for always being yourself.",
-    "May our friendship always remain beautiful.",
+    "To Madhavi, Meena Kumari & Meenakshi —",
+    "Thank you for every laugh and every memory.",
+    "Thank you for being my forever Trio Best Friends.",
+    "May our bond always stay beautiful and unbreakable.",
     "No matter where life takes us,",
-    "Our memories will always stay together.",
-    "Forever Best Friends ❤️"
+    "We will always find our way back to each other.",
+    "Forever Trio Best Friends ❤️"
   ]
 };
 

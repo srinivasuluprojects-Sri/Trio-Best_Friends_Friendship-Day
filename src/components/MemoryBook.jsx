@@ -7,34 +7,34 @@ export default function MemoryBook() {
   const pages = [
     {
       pageNo: 1,
-      title: "Cover & Prelude",
-      subtitle: "The Chronicles of Trio Best Friends",
-      text: "Dedicated to the best people who made every single day brighter, funnier, and filled with genuine laughter.",
+      title: "Our Trio Story Begins",
+      subtitle: "Madhavi, Meena Kumari & Meenakshi",
+      text: "Three beautiful souls — Madhavi, Meena Kumari & Meenakshi — who found each other and made every ordinary day feel extraordinary.",
       quote: "Friendship isn't a big thing, it's a million little things.",
       image: TRIO_IMAGE_1
     },
     {
       pageNo: 2,
-      title: "Unplanned Fun",
-      subtitle: "Food, Gossip & Crazy Vibes",
-      text: "No matter where we go, we turn every regular hangout into an unforgettable core memory.",
+      title: "Food Court Memories",
+      subtitle: "Laughs, Food & Crazy Vibes",
+      text: "No matter where we go — the food court, a random plan or a silly selfie session — we always turn every moment into a core memory.",
       quote: "Laughter is brightest where food & friends are best!",
       image: TRIO_IMAGE_2
     },
     {
       pageNo: 3,
-      title: "Late Night Talks",
-      subtitle: "Secrets & Deep Conversations",
-      text: "Thank you for being the person I can talk to about literally anything at 2 AM without second thought.",
+      title: "Our Unbreakable Bond",
+      subtitle: "Always There For Each Other",
+      text: "Through every high and low — Madhavi's warmth, Meena Kumari's humor, and Meenakshi's gentle love — we have always held each other together.",
       quote: "Some souls just understand each other instantly.",
       image: TRIO_IMAGE_1
     },
     {
       pageNo: 4,
-      title: "Forever Chapter",
+      title: "Forever Trio",
       subtitle: "Beyond Time & Distance",
-      text: "Life will change, years will pass, but our bond remains unbreakable. Forever Best Friends ❤️",
-      quote: "Soulmates aren't just lovers. They're best friends.",
+      text: "Life will change, years will pass, but what Madhavi, Meena Kumari & Meenakshi share is permanent. Forever Trio Best Friends ❤️",
+      quote: "True best friends are the family you choose forever.",
       image: TRIO_IMAGE_2
     }
   ];

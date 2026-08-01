@@ -7,10 +7,10 @@ export default function MemoryGallery() {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const featuredMemory = {
-    title: "Trio Hanging Out at the Food Court",
+    title: "Madhavi, Meena Kumari & Meenakshi 💖",
     category: "FAVORITE MEMORY",
     image: TRIO_IMAGE_2,
-    caption: "The iconic selfie that captured pure joy, unfiltered laughter, and core memories together. Three souls, one heartbeat, infinite laughs. ❤️"
+    caption: "The iconic food court selfie — Madhavi, Meena Kumari & Meenakshi together, pure joy, unfiltered laughter, and the most beautiful core memories. Three souls, one heartbeat. ❤️"
   };
 
   return (
